@@ -1,0 +1,276 @@
+Welcome to the Unlimited Vending Machine
+We have an unlimted variety of drinks.
+With your unliminted wallet, you will never run out of cash!
+What would you like to order today?
+*****************************************************
+Please select one of the following options.
+O: Order from the unlimited vending machine.
+V: View what you have in your hand currently.
+D: Display what the unlimited vending machine contains.
+G: Grab money out of unlimited wallet
+E: Exit
+*****************************************************
+Please select what you would like to do.
+Option Selected: d
+
+You selected the view vending machine option.
+Here are the options!
+*****************************************************
+1. Sprite        $2.50
+2. Coca-Cola     $2.50
+3. Water         $2.00
+4. Gatorade      $3.00
+5. Diet Cola     $2.55
+6. Fanta         $2.55
+7. Root Beer     $1.50
+8. Dr. Pepper    $1.55
+*****************************************************
+*****************************************************
+Please select one of the following options.
+O: Order from the unlimited vending machine.
+V: View what you have in your hand currently.
+D: Display what the unlimited vending machine contains.
+G: Grab money out of unlimited wallet
+E: Exit
+*****************************************************
+Please select what you would like to do.
+Option Selected: V
+
+You selected to see how much cash you have in your hand currently.
+*****************************************************
+You have $0.00 in your hand currently.
+*****************************************************
+*****************************************************
+Please select one of the following options.
+O: Order from the unlimited vending machine.
+V: View what you have in your hand currently.
+D: Display what the unlimited vending machine contains.
+G: Grab money out of unlimited wallet
+E: Exit
+*****************************************************
+Please select what you would like to do.
+Option Selected: o
+
+You have selected to order something from the unlimited vending machine.
+*****************************************************
+Here are the options!
+*****************************************************
+1. Sprite        $2.50
+2. Coca-Cola     $2.50
+3. Water         $2.00
+4. Gatorade      $3.00
+5. Diet Cola     $2.55
+6. Fanta         $2.55
+7. Root Beer     $1.50
+8. Dr. Pepper    $1.55
+*****************************************************
+What would you like today?
+Option Selected: 2
+Coca-Cola has been selected. Total cost is: $2.50
+Beginning Transaction Process.
+You do not have enough in your account.
+Please pull more money from the unlimited wallet.
+*****************************************************
+How much would you like to pull from the unlimited wallet?
+1: $1.00
+2: $5.00
+3: $10.00
+Option Selected: 1
+*****************************************************
+$1.00 has been added to your hand successfully!
+*****************************************************
+You do not have enough in your account.
+Please pull more money from the unlimited wallet.
+*****************************************************
+How much would you like to pull from the unlimited wallet?
+1: $1.00
+2: $5.00
+3: $10.00
+Option Selected: 1
+*****************************************************
+$1.00 has been added to your hand successfully!
+*****************************************************
+You do not have enough in your account.
+Please pull more money from the unlimited wallet.
+*****************************************************
+How much would you like to pull from the unlimited wallet?
+1: $1.00
+2: $5.00
+3: $10.00
+Option Selected: 1
+*****************************************************
+$1.00 has been added to your hand successfully!
+*****************************************************
+You have $3.00 in your hand before transaction.
+Putting $2.50 into the vending machine.
+Transaction was successful!
+You have now $0.50 in your hand.
+*****************************************************
+*****************************************************
+Please select one of the following options.
+O: Order from the unlimited vending machine.
+V: View what you have in your hand currently.
+D: Display what the unlimited vending machine contains.
+G: Grab money out of unlimited wallet
+E: Exit
+*****************************************************
+Please select what you would like to do.
+Option Selected: G
+
+You have selected to pull more money out of the unlimited wallet.
+*****************************************************
+How much would you like to pull from the unlimited wallet?
+1: $1.00
+2: $5.00
+3: $10.00
+Option Selected: 1
+*****************************************************
+$1.00 has been added to your hand successfully!
+*****************************************************
+*****************************************************
+Please select one of the following options.
+O: Order from the unlimited vending machine.
+V: View what you have in your hand currently.
+D: Display what the unlimited vending machine contains.
+G: Grab money out of unlimited wallet
+E: Exit
+*****************************************************
+Please select what you would like to do.
+Option Selected: V
+
+You selected to see how much cash you have in your hand currently.
+*****************************************************
+You have $1.50 in your hand currently.
+*****************************************************
+*****************************************************
+Please select one of the following options.
+O: Order from the unlimited vending machine.
+V: View what you have in your hand currently.
+D: Display what the unlimited vending machine contains.
+G: Grab money out of unlimited wallet
+E: Exit
+*****************************************************
+Please select what you would like to do.
+Option Selected: o
+
+You have selected to order something from the unlimited vending machine.
+*****************************************************
+Here are the options!
+*****************************************************
+1. Sprite        $2.50
+2. Coca-Cola     $2.50
+3. Water         $2.00
+4. Gatorade      $3.00
+5. Diet Cola     $2.55
+6. Fanta         $2.55
+7. Root Beer     $1.50
+8. Dr. Pepper    $1.55
+*****************************************************
+What would you like today?
+Option Selected: 7
+Root Beer has been selected. Total cost is: $1.50
+Beginning Transaction Process.
+You have $1.50 in your hand before transaction.
+Putting $1.50 into the vending machine.
+Transaction was successful!
+You have now $0.00 in your hand.
+*****************************************************
+*****************************************************
+Please select one of the following options.
+O: Order from the unlimited vending machine.
+V: View what you have in your hand currently.
+D: Display what the unlimited vending machine contains.
+G: Grab money out of unlimited wallet
+E: Exit
+*****************************************************
+Please select what you would like to do.
+Option Selected: v
+
+You selected to see how much cash you have in your hand currently.
+*****************************************************
+You have $0.00 in your hand currently.
+*****************************************************
+*****************************************************
+Please select one of the following options.
+O: Order from the unlimited vending machine.
+V: View what you have in your hand currently.
+D: Display what the unlimited vending machine contains.
+G: Grab money out of unlimited wallet
+E: Exit
+*****************************************************
+Please select what you would like to do.
+Option Selected: G
+
+You have selected to pull more money out of the unlimited wallet.
+*****************************************************
+How much would you like to pull from the unlimited wallet?
+1: $1.00
+2: $5.00
+3: $10.00
+Option Selected: 2
+*****************************************************
+$5.00 has been added to your hand successfully!
+*****************************************************
+*****************************************************
+Please select one of the following options.
+O: Order from the unlimited vending machine.
+V: View what you have in your hand currently.
+D: Display what the unlimited vending machine contains.
+G: Grab money out of unlimited wallet
+E: Exit
+*****************************************************
+Please select what you would like to do.
+Option Selected: v
+
+You selected to see how much cash you have in your hand currently.
+*****************************************************
+You have $5.00 in your hand currently.
+*****************************************************
+*****************************************************
+Please select one of the following options.
+O: Order from the unlimited vending machine.
+V: View what you have in your hand currently.
+D: Display what the unlimited vending machine contains.
+G: Grab money out of unlimited wallet
+E: Exit
+*****************************************************
+Please select what you would like to do.
+Option Selected: O
+
+You have selected to order something from the unlimited vending machine.
+*****************************************************
+Here are the options!
+*****************************************************
+1. Sprite        $2.50
+2. Coca-Cola     $2.50
+3. Water         $2.00
+4. Gatorade      $3.00
+5. Diet Cola     $2.55
+6. Fanta         $2.55
+7. Root Beer     $1.50
+8. Dr. Pepper    $1.55
+*****************************************************
+What would you like today?
+Option Selected: 3
+Water has been selected. Total cost is: $2.00
+Beginning Transaction Process.
+You have $5.00 in your hand before transaction.
+Putting $2.00 into the vending machine.
+Transaction was successful!
+You have now $3.00 in your hand.
+*****************************************************
+*****************************************************
+Please select one of the following options.
+O: Order from the unlimited vending machine.
+V: View what you have in your hand currently.
+D: Display what the unlimited vending machine contains.
+G: Grab money out of unlimited wallet
+E: Exit
+*****************************************************
+Please select what you would like to do.
+Option Selected: E
+
+*****************************************************
+Thank you for visiting the unlimited vending machine!
+You have $3.00 in your hand. Make sure to put that back into your unlimited wallet.
+Have a great day!
